@@ -139,6 +139,10 @@ nav ul li a:hover {
     width: 400px;
 }
 
+.container #Gallery .gallery-main .images .galleryImg img:hover{
+    
+}
+
 .container #Gallery .gallery-main .images .galleryImg button {
     position: absolute;
     bottom: 20px;
